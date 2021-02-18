@@ -1,4 +1,4 @@
 # RSA_implement
 Using python to implement the RSA
 # Date
-Finish in 09/2020. Upload in 2021
+Finished in 09/2020. Uploaded in 2021
